@@ -1,0 +1,26 @@
+0: 4 cartas
+1 palo: 4 cartas
+1 dinno: 2 cartas
+2 sarten: 4 cartas
+2 serpiente: 2 cartas
+3 pala: 4 cartas
+3 batidora: 2 cartas
+3 palo: 2 cartas
+4 pico: 4 cartas
+4 fuego: 2 cartas
+5 trampa: 2 cartas
+5 bate: 4 cartas
+6 arco: 4 cartas
+6 estrella: 2 cartas
+7 bicho: 3 cartas
+7 prismatico: 2 cartas
+8 planta: 1 carta
+8 picos: 3 cartas
+9 motosierra: 1 carta
+9 bazuka: 3 cartas
+
+Score Booster: 5 cartas
+Score Inversion: 2 cartas
+Score sapper: 5 cartas
+Disaster Redirect: 1 carta
+Disaster Insurance: 3 cartas
